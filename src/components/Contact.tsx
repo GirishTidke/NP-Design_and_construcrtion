@@ -25,17 +25,17 @@ const Contact = () => {
     {
       icon: MapPin,
       title: 'Address',
-      details: 'Mumbai, Maharashtra, India',
+      details: 'Nagpur, Maharashtra, India',
     },
     {
       icon: Phone,
       title: 'Phone',
-      details: '+91 0101010101',
+      details: '+91 8055223358',
     },
     {
       icon: Mail,
       title: 'Email',
-      details: 'info@npdesign.com',
+      details: 'npgroups@gmail.com.com',
     },
   ];
 
